@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ero",
+				"Error_Handler();\t⟠"
+			],
+			[
+				"lett",
+				"letter_ascii"
+			],
+			[
+				"le",
+				"letter_ascii"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/tryjango/manage.py",
+			"settings":
+			{
+				"buffer_size": 540,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/OSX_C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/OSX_C.sublime-build",
+					"Cmd"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/OSX_C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/OSX_C++.sublime-build",
+					"Cmd"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/Notion.app",
+		"/Users/kounuki/django/tutorial",
+		"/Users/kounuki/django/tutorial/src",
+		"/Users/kounuki/django/tutorial/src/tryjango",
+		"/Users/kounuki/django/tutorial/src/tryjango/tryjango"
+	],
+	"file_history":
+	[
+		"/Users/kounuki/Downloads/詩歌 508.svg",
+		"/Users/kounuki/STM32Cube/project/CANBus/CAN_LED/main.c",
+		"/Users/kounuki/Documents/機率與統計/作業/hw1/E14086020_HW1/HW1_1_30.m",
+		"/Users/kounuki/Documents/programDesign/homework/sister_noise.c",
+		"/Users/kounuki/Documents/programDesign/homework/sysmetric_array",
+		"/Users/kounuki/Documents/programDesign/homework/king_fighter.c",
+		"/Users/kounuki/Documents/programDesign/homework/2020_calender.c",
+		"/Users/kounuki/git/hex_to_base64/base_64_file_input_output.c",
+		"/Users/kounuki/Documents/programDesign/homework/bueafort scale.c",
+		"/Users/kounuki/Documents/programDesign/homework/be a man.c",
+		"/Users/kounuki/Documents/程設一/homework/hw7.c",
+		"/Users/kounuki/Documents/程設一/ncpc/ncpc1.c",
+		"/Volumes/BOB_SANDISK/testhw3.cpp",
+		"/Users/kounuki/Documents/計概/作業/test.cpp",
+		"/Users/kounuki/Documents/計概/課堂程式/random",
+		"/Users/kounuki/Documents/計概/standard.cpp",
+		"/Users/kounuki/Downloads/HW1_E14086020.cpp",
+		"/Users/kounuki/Documents/計概/作業/HW2_E14086020.cpp",
+		"/Users/kounuki/Documents/計概/作業/HW1_E14086020.cpp",
+		"/Users/kounuki/Documents/計概/作業/Source (1).cpp",
+		"/Users/kounuki/Documents/計概/class2_2.cpp",
+		"/Users/kounuki/Documents/計概/課堂程式/class2.cpp",
+		"/Users/kounuki/Desktop/wave.cpp",
+		"/Users/kounuki/Desktop/OSX_bulid.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/tryjango/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "try_django.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
